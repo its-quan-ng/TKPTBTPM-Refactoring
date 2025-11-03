@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225461_NguyenThiBichQuan_After_InlineMethod_02", "DPM225461_NguyenThiBichQuan_After_InlineMethod_02.csproj", "{6E34ECF4-2C2C-4DE9-9AB2-21AF4E675BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E34ECF4-2C2C-4DE9-9AB2-21AF4E675BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E34ECF4-2C2C-4DE9-9AB2-21AF4E675BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E34ECF4-2C2C-4DE9-9AB2-21AF4E675BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E34ECF4-2C2C-4DE9-9AB2-21AF4E675BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130DF8CD-95C2-49F1-B4B1-014C02C8F97C}
+	EndGlobalSection
+EndGlobal
